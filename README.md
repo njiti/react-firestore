@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-###App Images
+###`App Images`
 ![Screenshot from 2022-11-09 16-38-37](https://user-images.githubusercontent.com/44501188/200846355-87a74ee1-2a35-4c38-87c9-359079f1658a.png)
 ![Screenshot from 2022-11-09 16-38-46](https://user-images.githubusercontent.com/44501188/200846391-df3a136e-d693-426a-897b-7877109d21c1.png)
 
